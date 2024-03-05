@@ -1,6 +1,6 @@
 Мной был пройден курс **Яндекс Практикум** по специальности инженер по тестированию от новичка до автоматизатора - https://practicum.yandex.ru/qa-engineer-full-stack/
 
-[!(https://gain.ru/wp-content/uploads/2021/11/image-7.png)]
+[![Банер](https://gain.ru/wp-content/uploads/2021/11/image-7.png)]
 
 <details>
 <summary> Ручное тестирование </summary> 
