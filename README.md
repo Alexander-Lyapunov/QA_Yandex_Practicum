@@ -1,4 +1,4 @@
-Мной был пройден курс **Яндекс Практикум** по специальности: ["Инженер по тестированию"](https://practicum.yandex.ru/qa-engineer-full-stack/) 
+# Мной был пройден курс **Яндекс Практикум** по специальности: ["Инженер по тестированию"](https://practicum.yandex.ru/qa-engineer-full-stack/) 
 
 ![Header Pract_1](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum/assets/161708605/4d729b96-c2ed-4092-ae30-4633ef85ffd9)
 
