@@ -1,4 +1,6 @@
 ### Спринт 1 - Проектирование тестов. Ниже представлены фрагменты из выполненной работы.
+![Header_1](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum/assets/161708605/6a1fa4dd-74f2-4872-844f-79c4b5308245)
+
 <details>  
 <summary> • Была составлена mind-map сервиса "Яндекс.Маршруты" </summary> 
   
