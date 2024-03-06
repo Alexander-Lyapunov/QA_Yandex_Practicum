@@ -8,7 +8,7 @@
 Mind-map в хорошем рзрешении доступна по [ссылке](https://miro.com/app/board/uXjVNIdX9UA=/?share_link_id=995095319234)
 </details>
 <details>
-<summary> • Была составлена блок-схемы на логику расчета средней скорости транспорта в зависимости от времени суток в сервисе "Яндекс.Маршруты" </summary>
+<summary> • Была составлена блок-схема на логику расчета средней скорости транспорта в зависимости от времени суток в сервисе "Яндекс.Маршруты" </summary>
   
 ![Sprint 1 Blo](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum/assets/161708605/1c768a1f-5954-45c8-a06e-f48e476c194b)
 </details>
