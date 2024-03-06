@@ -1,5 +1,4 @@
-Мной был пройден курс **Яндекс Практикум** по специальности: 
-["Инженер по тестированию"](https://practicum.yandex.ru/qa-engineer-full-stack/)
+<p style="text-align: center;"> Мной был пройден курс **Яндекс Практикум** по специальности: ["Инженер по тестированию"](https://practicum.yandex.ru/qa-engineer-full-stack/) </p>
 
 ![Банер](https://gain.ru/wp-content/uploads/2021/11/image-7.png)
 
