@@ -5,7 +5,7 @@
 <details>
 <summary> Ручное тестирование </summary> 
 
-### Спринт 1 - Проектирование тестов [ссылка](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum/tree/main/QA_Yandex_Manual/Sprint%201) 
+### Спринт 1 - Проектирование тестов. [Фрагмент проделанной работы](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum/tree/main/QA_Yandex_Manual/Sprint%201) 
 
 - Проектирование тестов - тест-анализ и тест-дизайн. 
 - Составление mind-map сервиса "Яндекс.Маршруты". Создание блок-схемы на логику расчета средней скорости транспорта в зависимости от времени суток в сервисе "Яндекс.Маршруты". 
