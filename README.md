@@ -51,6 +51,6 @@
 </details>
 
 <details>
-<summary> Ручное тестирование </summary> 
+<summary> Автоматизация тестирования на Python </summary> 
 В процессе обучения
 </details>
