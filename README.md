@@ -49,3 +49,8 @@
 - Работа с СУБД PostgreSQL.
 
 </details>
+
+<details>
+<summary> Ручное тестирование </summary> 
+В процессе обучения
+</details>
