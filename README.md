@@ -54,6 +54,12 @@
   
 <summary> Автоматизация тестирования на Python </summary> 
 
-### В процессе обучения
+### Дипломная работа. Задание 1 - Юнит - Тесты.
+- [Автотесты для проверки программы, которая помогает заказать бургер в Stellar Burgers](https://github.com/Alexander-Lyapunov/Diplom_1)  
 
+### Дипломная работа. Задание 2 - API - Тесты.
+- [Автотесты для проверки API сайта Stellar Burgers](https://github.com/Alexander-Lyapunov/Diplom_2)  
+
+### Дипломная работа. Задание 3 - UI - Тесты.
+- [Автотесты для проверки UI сайта Stellar Burgers](https://github.com/Alexander-Lyapunov/Diplom_3)  
 </details>
